@@ -9,7 +9,7 @@ pipeline{
 	    
                steps{
 		 echo 'cloning the repo'
-                 git 'https://github.com/kumar21fr/JenkinFileDemo.git'
+                 git 'https://github.com/Sonal0409/DevOpsClassCodes.git'
               }
           }
           stage('Compile'){
